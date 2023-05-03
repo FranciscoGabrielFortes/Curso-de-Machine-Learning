@@ -8,7 +8,7 @@ M5_02_Condicionales:
   uso de  condicionales en python.
   operadores de comparacion == ¡=m etc y decision if ,elif,...
 
-M5_03_Bucles:
+M5_03_Bucles: (Copia de javi  M5 - 03 - Bucles)
   uso de bucles en python.
   while,for in , variable iteradora
   
