@@ -58,7 +58,8 @@ import folium
 
 
 
-Prophet - Predecir el valor de Bitcoin-bbva planes
+**Prophet - Predecir el valor de Bitcoin-bbva planes
+
 Librerias:Prophet es una de las librerías más avanzadas para predecir series temporales desarrollada por Facebook
 Uso de como entrenar el modelo 
 import pandas as pd
