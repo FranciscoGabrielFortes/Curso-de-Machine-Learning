@@ -74,6 +74,13 @@ import warnings
 
 
 
+Dia 4 Viernes :
+Copia de M5 - SPACEX2 - 6 - Machine Learning Predicciones
+
+Copia de M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
+
+
+
 
 
 
